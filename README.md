@@ -18,6 +18,6 @@ Response:
 ```
 
 Torment to be done:
-- [] Sessions for a BF interactive option.
-- [] Clean up some of the existing code.
-- [] Documentation.
+- [ ] Sessions for a BF interactive option.
+- [ ] Clean up some of the existing code.
+- [ ] Documentation.
